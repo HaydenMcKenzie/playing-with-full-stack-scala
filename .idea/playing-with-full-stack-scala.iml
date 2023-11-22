@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/play-scalajs/app/client/src/main/scala" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/playing-with-scala/app/client/src/main/scala" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/scala-frontend/src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scala-js-work/src/main/scala" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
